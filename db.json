@@ -13,6 +13,13 @@
       "address": "893 Main Voulevard",
       "membership": "Pro",
       "id": 2
+    },
+    {
+      "name": "Nacho Langdon",
+      "phone": "",
+      "address": "982 Congress Avenue",
+      "membership": "Basic",
+      "id": 3
     }
   ]
 }
